@@ -15,7 +15,15 @@ If it doesn't work, try opening the code in Visual Studio Code and open it with 
 Download all the files except the README.md file. Every VS Code file you downloaded put in a folder that you'll create in Visual Studio Code. Name the folder that you just created in Viaual Studio Code "Files" or anything else that you'll recognize the folder as the files of the app. Make sure you save the app files for VS Code you just downloaded.
 
 
-Option 2 (Much easier way, for Windows, macOS and Linux)
+Option 2 (Much easier way, for Windows, macOS, Linux & ChromeOS)
+
+
+Make sure that your computer meets its OS requirement:
+
+• macOS Sierra or later
+• Windows 7 or later
+• Linux (depends on the distro)
+• ChromeOS version 72
 
 
 Open Google Chrome and install the Ignore X-Frame headers extension from the Chrome web store. Then, in your Chrome search bar put in this URL: https://milanovv7.github.io/DragonWeb-Online-Demo/
