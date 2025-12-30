@@ -21,8 +21,11 @@ Option 2 (Much easier way, for Windows, macOS, Linux & ChromeOS)
 Make sure that your computer meets its OS requirement:
 
 • macOS Sierra or later
+
 • Windows 7 or later
+
 • Linux (depends on the distro)
+
 • ChromeOS version 72
 
 
