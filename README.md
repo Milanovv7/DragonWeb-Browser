@@ -1,6 +1,17 @@
 # DragonWeb-Browser
 
 
+DragonWeb v2 is here.
+
+Here's what's new:
+
+• Errors when switching between tabs bug fixed.
+
+• Errors when opening the app bug fixed.
+
+• Now even smoother performance.
+
+
 Option 1 (Windows only)
 
  
