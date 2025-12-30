@@ -31,7 +31,7 @@ Option 2 (Much easier way, for Windows, macOS, Linux & ChromeOS)
 
 Make sure that your computer meets its OS requirement:
 
-• macOS Sierra or later
+• macOS 10.12 Sierra or later
 
 • Windows 7 or later
 
