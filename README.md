@@ -27,7 +27,11 @@ Make sure that your computer meets its OS requirement:
 
 
 
+
+
 Here's how to get it!
+
+
 
 
 
