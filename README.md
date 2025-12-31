@@ -25,6 +25,12 @@ Make sure that your computer meets its OS requirement:
 • ChromeOS version 72 or later
 
 
+
+
+Here's how to get it!
+
+
+
 Open Google Chrome and install the Ignore X-Frame headers extension from the Chrome Web Store. Then, in your Chrome search bar put in this URL: https://milanovv7.github.io/DragonWeb-Online-Demo/
 
 You'll be taken to the web version of the browser. From here you can test it before actually installing it. If you wanna install it, while you're here click on the 3 dots menu in the top right corner, hover over Cast, save, and share. Click on Download page as app.
