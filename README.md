@@ -1,7 +1,7 @@
 # DragonWeb-Browser
 
 
-DragonWeb v2 is here.
+DragonWeb v1.0.1 is here.
 
 Here's what's new:
 
