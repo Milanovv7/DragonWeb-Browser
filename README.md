@@ -35,7 +35,7 @@ Here's how to get it!
 
 
 
-Open Google Chrome and install the Ignore X-Frame headers extension from the Chrome Web Store, which you can do by searching up Chrome Web Store in your Chrome search bar. In Chrome Web Store search for Ignore X-Frame headers. Click on the first extension that pops up and click on Add to Chrome. Then, click on this URL: https://milanovv7.github.io/DragonWeb-Browser/
+Open Google Chrome and install the Ignore X-Frame headers extension from the Chrome Web Store, which you can do by searching up Chrome Web Store in your Chrome search bar. In Chrome Web Store search for Ignore X-Frame headers. Click on the first extension that pops up and click on Add to Chrome. Then, click on this URL: https://milanovv7.github.io/DragonWeb-Browser/ or https://milanovv7.github.io/DragonWeb-Online-Demo/. It doesn't matter, both are the same.
 
 You'll be taken to the web version of the browser in a new Chrome tab. From here you can test it before actually installing it. If you wanna install it, while you're here click on the 3 dots menu in the top right corner, hover over Cast, save, and share. Click on Download page as app.
 
