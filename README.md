@@ -1,15 +1,17 @@
 # DragonWeb-Browser
 
 
-DragonWeb v1.0.1 is here.
+DragonWeb v1.0.2 is here.
 
 Here's what's new:
 
-• Errors when switching between tabs bug fixed.
+• Added option for scrolling in Browser Settings.
 
-• Errors when opening the app bug fixed.
+• A System toggle for theme mode is added.
 
-• Now even smoother performance.
+• Better optimization for smaller screens.
+
+• You can change the DragonWeb Homepage Title to whatever you want.
 
 
 
