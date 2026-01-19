@@ -46,4 +46,4 @@ If you want you can even download the code for DragonWeb by dowloading the index
 Enjoy your browsing.
 
 ⚠️IT MAY BE FILLED WITH RANDOM BUGS⚠️
-⚠️IT DOES HAVE LIMITANONS, MEANING IT'S HARD TO ISE ON THE DAILY⚠️
+⚠️IT DOES HAVE LIMITANONS, MEANING IT'S HARD TO USE ON THE DAILY⚠️
