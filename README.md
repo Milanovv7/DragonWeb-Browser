@@ -41,7 +41,7 @@ Open Google Chrome and install the Ignore X-Frame headers extension from the Chr
 
 You'll be taken to the web version of the browser in a new Chrome tab. From here you can test it before actually installing it. If you wanna install it, while you're here click on the 3 dots menu in the top right corner, hover over Cast, save, and share. Click on Download page as app.
 
-If you want you can even download the code for DragonWeb by dowloading the index.html & Emergent_Fullstack App_Files. You can view the code for yourself in Visual Studio Code and edit the code if you want.
+If you want you can even download the code for DragonWeb by dowloading the index.html & index_files. You can view the code for yourself in Visual Studio Code and edit the code if you want.
 
 Enjoy your browsing.
 
