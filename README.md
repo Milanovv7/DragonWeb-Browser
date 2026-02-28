@@ -51,7 +51,7 @@ Enjoy your browsing.
 
 Update coming soon! 📣
 
-DragonWeb 2.0 is coming soon and here's what to expext comng in DragonWeb.
+DragonWeb 2.0 is coming soon and here's what to expect comng in DragonWeb.
 
 • A new more glassy design
 
