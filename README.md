@@ -55,10 +55,6 @@ DragonWeb 2.0 is coming soon and here's what to expect comng in DragonWeb.
 
 • A new more glassy design
 
-• AI search toggle
-
-• AI chatbot for quick access (you can choose between ChatGPT, Copilot, Gemini & Claude)
-
 • New tab managment look
 
 • New wallpapers
