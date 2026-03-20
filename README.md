@@ -1,17 +1,18 @@
 # DragonWeb-Browser
 
 
-DragonWeb v1.0.2 is here.
+DragonWeb v2.0 is here.
 
 Here's what's new:
+• A whole new glassmorphism design
 
-• Added option for scrolling in Browser Settings.
+• Quick access an AI assistant
 
-• A System toggle for theme mode is added.
+• Google AI search
 
-• Better optimization for smaller screens.
+• New wallpapers
 
-• You can change the DragonWeb Homepage Title to whatever you want.
+• More rounded corners
 
 
 
@@ -49,18 +50,5 @@ Enjoy your browsing.
 ⚠️IT DOES HAVE LIMITANONS, MEANING IT'S HARD TO USE ON THE DAILY⚠️
 
 
-Update coming soon! 📣
-
-DragonWeb 2.0 is coming soon and here's what to expect comng in DragonWeb.
-
-• A new more glassy design
-
-• AI search toggle
-
-• AI chatbot for quick access (you can choose between ChatGPT, Copilot, Gemini & Claude)
-
-• New tab managment look
-
-• New wallpapers
-
-• Search suggestions by Google.
+Download the Previous version at milanovv7.github.io/DragonWeb-Browser.github.io (same steps)
+Warning: This version of DragonWeb is no longer supported. That means it won't get any updates anymore.
