@@ -50,5 +50,5 @@ Enjoy your browsing.
 ⚠️IT DOES HAVE LIMITANONS, MEANING IT'S HARD TO USE ON THE DAILY⚠️
 
 
-Download the Previous version at milanovv7.github.io/DragonWeb-Browser.github.io (same steps)
+Download the Previous version at https://milanovv7.github.io/DragonWeb-Browser/ (same steps)
 Warning: This version of DragonWeb is no longer supported. That means it won't get any updates anymore.
