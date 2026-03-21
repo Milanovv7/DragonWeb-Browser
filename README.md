@@ -4,6 +4,7 @@
 DragonWeb v2.0 is here.
 
 Here's what's new:
+
 • A whole new glassmorphism design
 
 • Quick access an AI assistant
