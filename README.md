@@ -55,7 +55,7 @@ Here's how to get it!
 With Google Chrome:
 - Click the 3 vertical dots in the top right corner (in the tab bar next to your Google account)
 - Click on "Cast, save and share"
-- Click on the doenload option.
+- Click on the download option.
 
 With Edge:
 - Click the 3 horizontal dots in the top right corner (in the tab bar next to the Copilot Chat button)
