@@ -45,8 +45,11 @@ Here's how to get it!
 
 
 • Click on https://chromewebstore.google.com/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe
+
 • Get the etension
+
 • Click on https://milanovv7.github.io/DragonWeb-Online-Demo/
+
 • While on that website, follow these instructions according to the browser you use:
 
 With Google Chrome:
